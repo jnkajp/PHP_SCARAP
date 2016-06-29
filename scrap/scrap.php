@@ -1,6 +1,6 @@
 <?php
 // phpQueryの読み込み
-require_once("./lib/phpQuery-onefile.php");
+require_once("./lib/phpQuery.php");
 // HTMLデータを取得する
 $From_URL = "http://goohome.jp/search/proplist?md=11&rtby=1&rttyp=&prptp=1%2C2&use=&pref=47&city=all&area=&rtprmax=0&rtprmin=0&rtspc=&exvmax=0&exvmin=0&lndmax=0&lndmin=0&lytgp=&lyt=&bltyr=0&stwk=0&img=&updt=0&sprht=&sploc=&spctr=&spstrct=&bldgstr=&spcnd=&spprk=&spgs=&spbth=&spair=&spclst=&spntwk=&spsec=&spoth2=&spuse=&spstat=&spoth=&odr=&ct=100&pg=1&lfboxsh=1";
 
